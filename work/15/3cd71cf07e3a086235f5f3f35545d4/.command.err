@@ -1,4 +1,0 @@
-mpileup: invalid option -- 'u'
-Note: none of --samples-file, --ploidy or --ploidy-file given, assuming all sites are diploid
-Invalid option: '?'
-Failed to read from standard input: unknown file type
